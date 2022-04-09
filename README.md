@@ -1,0 +1,2 @@
+# Hackintosh-ROG-Z490-A-10700K-RX560
+Hackintosh-ROG-Z490-A-10700K-RX560 EFI
